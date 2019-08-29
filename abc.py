@@ -1,2 +1,2 @@
 def abc(a,b,c):
-    print a+b
+    print a+b+c
