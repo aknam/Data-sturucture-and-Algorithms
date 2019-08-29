@@ -1,2 +1,1 @@
-def sub(a,b):
-    return a-b
+print("hello akshay namdeo.How are you?")
