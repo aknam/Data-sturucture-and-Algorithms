@@ -1,2 +1,2 @@
 def add(x,y):
-   print("hello akshay how are you")
+   print("hello akshay. what are you going to do today ?")
