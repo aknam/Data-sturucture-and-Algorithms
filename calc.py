@@ -2,7 +2,7 @@ def add(x,y):
    pass
 <<<<<<< HEAD
 def subtract(x,y):
-   return x-y
+   pass
 def multiply(x,y):
    pass
 def divide(x,y):
